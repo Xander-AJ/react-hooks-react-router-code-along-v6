@@ -1,0 +1,19 @@
+
+.nav-link {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100px; /* Adjust width as needed */
+    padding: 10px;
+    margin: 0 10px;
+    background: blue;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px; /* Adjust font size as needed */
+    color: white;
+    border-radius: 5px; /* Add some border radius for a nicer look */
+  }
+  
+  .nav-link.active {
+    background: red; /* Change background color for active links */
+  }
+  
